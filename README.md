@@ -7,7 +7,7 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 ### Cadence EDA Suite
 - **Virtuoso Schematic Editor** (for circuit design)  
-- **Spectre Simulator** (for circuit simulation)  
+- **Spectre Simulator** (for circuit simulation) . 
 
 ### Process Design Kit (PDK)
 - CMOS technology library (e.g., 180nm, 45nm node)  
